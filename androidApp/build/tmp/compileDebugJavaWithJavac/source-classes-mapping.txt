@@ -1,0 +1,2 @@
+com/example/kmm3/androidApp/BuildConfig.java
+ com.example.kmm3.androidApp.BuildConfig
